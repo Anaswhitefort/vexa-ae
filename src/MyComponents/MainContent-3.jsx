@@ -33,59 +33,44 @@ function MainContent3() {
         <Cards
           image={computer}
           heading="Website Development"
-          text="Zedital services is one of the premier web development companies in India that provides Web Development
-          services. We serve you with attractive and 
-          eye catching web design which attracts customer to
-          visit your website"
+          text="We care about your market position & therefore; we have our dedicated developers for strengthening your foothold in the digital marketplace. We provide all services from website creation to maintenance & development of a pre- established business.
+          "
         />
         <Cards
           image={seo}
           heading="Search Engine Optimization"
-          text=" We help you to improve your Google ranking and increase
-          your organic (non-paid) website traffic. SEO is more
-          than just incorporating keywords and we can help to
-          optimize all elements."
+          text="Increase your organic traffic & watch your sales volume spiking off the chart with our experienced team of SEO content writers along with our curative & enthusiastic search engine optimization specialist.
+          "
         />
         <Cards
           image={smm}
           heading="Social Media Marketing"
-          text="We help you with social media management and
-          advertising to help you grow your business and
-          reach new clients."
+          text="Getting the attention of Gen z’s has never been tougher! From quick changes in fashion taste to the trendiest wish lists, the younger generation is omnipresent. Cater their needs with our explicit social media marketing team & watch your social presence grow."
         />
         <Cards
           image={fb}
           heading="FB & Google Ad"
-          text="We provide best Facebook and Google advertisement
-          services in affordable and best price with trendy
-          advertising concepts & ideas"
+          text="Advertisements & campaigning is our stronghold for marketing new products or scaling up the existing business. We provide the best-in-class ad services for all your google & FB ads. Reach a multitude of protentional clients with our speedy ad campaigns & get great results in short stretch of time."
         />
         <Cards
           image={email}
           heading="E-mail Marketing"
-          text="The writing and editing experience of email marketing
-          can be a sticky point for many creators. Our email
-          designer helps you breeze through the editing so you
-          can focus on writing your content, the most important
-          part of email."
+          text="The most hyped part of marketing is surely E-mail marketing. Get your products & services right to your target clients through our elusive E-mail marketing strategies & services."
         />
         <Cards
           image={branding}
           heading="Branding"
-          text="We are Branding Agency, a studio made up of passionate people who love finding thoughtful, engaging and timeless solutions to our clients’ problems. We deliver beautiful and effective projects from brand identities, packaging, and signage to exhibition graphics, websites, and Ui/Ux design for mobile application."
+          text="As a branding agency, we make sure that each of our project is completed with brimful care & attention to detail. Join us for brand identities, packaging & signage to graphic exhibitions with endless possibilities of UI/UX designs for mobile applications & websites."
         />
         <Cards
           image={startup}
-          heading="Startup / Small Business Profile Management"
-          text="A management profile is a description of the capabilities
-          (skills and behaviours) and attitudes that an organization's
-          manager require to drive the business strategy and lead
-          their team."
+          heading="Business Profile Management"
+          text="At zedital we are driven by the thought of complete perfection in our every project and what better way to show perfection than a complete skillset cumulated in a business profile. Fuse your ideas with our professional BPM team & present yourself distinctly."
         />
         <Cards
           image={pr}
           heading="PR & Verification"
-          text="We produce story copyrights, content and scripts for Digital PR , communication and distribution strategy for reach and business outcomes through engaging with a network of online professional bloggers, online story tellers, online editors and publication platforms. And then you will receive a blue tick (verification) on your social profiles."
+          text="Ever thought how exciting it would be to get a blue verification tick on your social profile?  Double your excitement with zedital’s premium PR & verification team & get verified on all major social platforms."
         />
       </div>
     </div>

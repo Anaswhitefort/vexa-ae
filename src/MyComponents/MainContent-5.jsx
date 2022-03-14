@@ -28,32 +28,36 @@ function MainContent5() {
         </p>
         <h1 data-aos="fade-up" data-aos-once="true">
           <TiTick className="tick-1" />
-          Digital Growth Mindset
+          Growth driven mindset
         </h1>
         <p data-aos="fade-up" data-aos-once="true">
-          For startups and growing businesses, our expert team at Zedital will
-          work with you every step of the way in your digital business growth
-          journey.
+        Since zedital was itself a startup once, we understand the toil & hard work behind setting up of a business. We value our customer’s ideas & their contemplative vision. We are a growth driven company which believes in customer-oriented business & therefore our expert team at Zedital will work every step of your digital growth journey to give a tough fight to your competitors.
         </p>
 
         <h1 data-aos="fade-up" data-aos-once="true">
           <TiTick className="tick-1" />
-          Dedicated Team
+          Dedicated experienced team
         </h1>
         <p data-aos="fade-up" data-aos-once="true">
-          Our digital consulting team at Zedital will work with you to kickstart
-          digital campaigns across the digital ecosystem to maximise your
-          marketing budget and achieve positive business outcomes.
+        Get full support of our experienced team at zedital & kickstart your digital campaigns across myriad digital platforms & achieve the most positive business outcomes.
         </p>
 
         <h1 data-aos="fade-up" data-aos-once="true">
           <TiTick className="tick-1" />
-          Speed to Market
+          Sporty marketing & reliability 
         </h1>
         <p data-aos="fade-up" data-aos-once="true">
-          We collaborate with your teams round the clock to bring ideas to life,
-          at speed and scale for all things Digital.
+        Our influential marketing techniques & considerable outreach has managed to provide reliability to our business model. We are quick to adapt the modern methods & resources as soon as they surface the business market.
         </p>
+
+        <h1 data-aos="fade-up" data-aos-once="true">
+          <TiTick className="tick-1" />
+          Full benefaction to our clients  
+        </h1>
+        <p data-aos="fade-up" data-aos-once="true">
+        We at zedital believe in mutual cooperation & subsistence development-oriented methods to provide full benefaction to our clients. Full technical as well as development support is provided at our end
+        </p>
+
       </p>
       <div className="flex flex-item-5">
         <div

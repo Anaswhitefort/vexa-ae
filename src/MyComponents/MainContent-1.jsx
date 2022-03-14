@@ -49,19 +49,18 @@ const MainContent1 = () => {
         <div className="flex-child-element">
           <div className="para">
             <p data-aos="fade-up" data-aos-once="true" className="right-para">
-              We are in the age of the audience-where, the people we are trying
-              to reach are in the driving seat. We know audience are less
-              tolerant of advertising than ever. Advertising today is received
-              on an audience's terms not a brands's. And they will dismiss the
-              unwelcome Instantly.
+              As technology around us shifted from big chunky television boxes
+              to LEDs & OLEDs, it's probably the best time to shift from old
+              traditional methods of marketing to digital presence & growth of
+              your company via digital marketing. We at zedital, provide a clear
+              vision & assistance for all your digital needs & efforts.
             </p>
             <p data-aos="fade-up" data-aos-once="true" className="right-para">
-              We at Zedital are driven by technology and data as much as design
-              and content to ensure we fulfill our key mission of helping our
-              clients to achieve their success. Our digital solution uses data to
-              segment consumers by demographics or interests in order to find the
-              holy grail that is the right person on the right device at the
-              right moment.
+              Connect with your target audience & expand the horizon of your
+              business with zedital digital marketing agency. We have myriad
+              offerings which include not only marketing of your product but
+              also scaling up your business initiatives to a completely new
+              level.
             </p>
           </div>
         </div>
